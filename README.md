@@ -2,10 +2,11 @@ This project is part of the course **Artificial Intelligence II** in the Departm
 
 The project explores and compares different binary Sentiment Analysis Classifiers. It reads text(tweets) extracted from twitter.com and classifies them as either positive or negative. It consists of 3 different assignments.
 
-Assignments:
-    1. `TF-IDF` vectorization and a `Logistic Regression` model using the Scikit-learn library.
-    2. Pre-trained `GloVe embeddings` (glove-twitter-200d) and a `Feed Forward Neural Network model` using the PyTorch library.
-    3. Transformer based models `BERT` and `DistilBERT` (bert-large-uncased and distilbert-base-uncased).
+## Assignments
+
+1. **TF-IDF vectorization** and a **Logistic Regression** model using the Scikit-learn library.  
+2. **Pre-trained GloVe embeddings** (`glove-twitter-200d`) and a **Feed Forward Neural Network** model using the PyTorch library.  
+3. **Transformer-based models**: `BERT` and `DistilBERT` (`bert-large-uncased` and `distilbert-base-uncased`).
 
 Summary of Results:
 
